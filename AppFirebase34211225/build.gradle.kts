@@ -1,6 +1,6 @@
 import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
+// Arquivo de build de nível superior onde você pode adicionar opções de configuração comuns a todos os subprojetos/módulos.
 
 
 plugins {
