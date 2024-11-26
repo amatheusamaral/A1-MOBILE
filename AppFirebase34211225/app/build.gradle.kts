@@ -59,6 +59,7 @@ android {
     }
 }
 
+// Dependência do Firebase Firestore para persistência de dados na nuvem
 dependencies {
 
     // Import the Firebase BoM (see: https://firebase.google.com/docs/android/learn-more#bom)
